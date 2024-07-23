@@ -1,12 +1,10 @@
-## Hi there 👋
+# Hola! Soy Bri 👋
 
-<!--
-**idyoneiros/idyoneiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77DAB&width=435&lines=%F0%9F%92%BB%F0%9F%93%96+Estudiante+de+Desarrollo+Frontend;%F0%9F%8E%B9%F0%9F%8E%A7+Productora+musical+freelance;%F0%9F%8E%A4%F0%9F%8E%B5+Cantante+profesional;%F0%9F%96%B1%EF%B8%8F%E2%8C%A8%EF%B8%8F+Actualmente+iniciando+en+JS)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## Sobre mí
+- 🔭 Soy productora musical freelance y también tengo un proyecto musical personal que está en Spotify
+- 🌱 Deseo aprender sobre desarrollo web y aspiro a 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
