@@ -18,3 +18,6 @@
 - 🔭 Soy productora musical freelance y también tengo un proyecto musical personal que está en Spotify
 - 🌱 Deseo aprender sobre desarrollo web y aspiro a unirlo con mis conocimientos de _UX/UI_
 - 🤔 Estoy buscando proyectos simples de práctica
+
+## Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=ableton,html,css,sass,js,boostrap,git,figma,ai,ps,notion,)](https://skillicons.dev)
