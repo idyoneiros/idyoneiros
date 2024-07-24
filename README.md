@@ -23,4 +23,5 @@
 [![My Skills](https://skillicons.dev/icons?i=ableton,html,css,sass,js,bootstrap,git,figma,ai,ps,notion,)](https://skillicons.dev)
 
 ## 🌸 Stats
-[![Bri's GitHub stats](https://github-readme-stats.vercel.app/api?username=idyoneiros)](https://github.com/idyoneiros/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idyoneiros&theme=tokyonight)
+
