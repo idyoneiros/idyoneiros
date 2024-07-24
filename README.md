@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/spotify-green?logo=Instagram&logoColor=black&style=for-the-badge" alt="Spotify Badge"/>
   </a>
 </div>
+
 ## Sobre mí
 - 🔭 Soy productora musical freelance y también tengo un proyecto musical personal que está en Spotify
 - 🌱 Deseo aprender sobre desarrollo web y aspiro a unirlo con mis conocimientos de _UX/UI_
